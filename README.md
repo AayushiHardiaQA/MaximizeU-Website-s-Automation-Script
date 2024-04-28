@@ -1,4 +1,2 @@
 # Automation-MaximizeU
-This is my scripts repository for automation testing of MaximizeU Project.
-<br>
-Author: Aayushi Hardia
+MaximizeU is an eCommerce website where users can purchase online products such as audiobooks, online video lectures, and books.
