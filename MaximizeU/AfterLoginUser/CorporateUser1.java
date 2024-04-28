@@ -19,7 +19,7 @@ public class CorporateUser1 {
 		options.addArguments("--remote-allow-origins=*");
 		WebDriver driver = new ChromeDriver(options);
 
-		driver.get("https://staging-fe.maximizeu.life/auth/login");
+		driver.get("https://staging-fe.maximizeu.lifeu/auth/login");
 		driver.manage().window().maximize();
 		Thread.sleep(1000);
 		
